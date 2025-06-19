@@ -1,8 +1,10 @@
+<img src="tennis.svg" align="right" width="30px" style="filter:invert(50%)">
+
 # Bounce
 
 ## Demo
 
-[https://replit.com/@illfqm/BrickBreaker#main.py](View on Replit)
+[View on Replit](https://replit.com/@illfqm/BrickBreaker#main.py)
 
 ## Description
 
